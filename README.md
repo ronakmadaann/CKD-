@@ -12,7 +12,7 @@ A Machine Learning-based web application for predicting Chronic Kidney Disease (
 - **Python** (for backend logic and model implementation)
 - **Scikit-Learn** (for machine learning model)
 - **Pandas & NumPy** (for data processing)
-- **Streamlit** (for UI and deployment)
+- **Streamlit** (for UI and deployment).
 
 ## Installation
 1. Clone the repository:
